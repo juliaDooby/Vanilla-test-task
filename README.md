@@ -6,6 +6,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<a href="https://maryrabinovich.github.io/mSnus_vanilla/dist/"><strong>➥Demo-ex</strong></a>
 
 <div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_2.JPG" width="100%" height="20%"></img></div>
@@ -15,8 +16,6 @@
 <div align="center"><img src="https://github.com/juliaDooby/mSnus_vanilla-testTask/blob/main/screen/test_6.JPG" width="100%" height="20%"></img></div>
 
 ---
-
-[demo-ex](https://maryrabinovich.github.io/mSnus_vanilla/dist/)
 
 ### Technologies Used:
 
